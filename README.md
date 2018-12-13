@@ -37,6 +37,6 @@ En gros, il fonctionne en plusieurs passes :
 1. Au bout d'un moment, il ne garde que les glyphes les plus intéressants. A partir de là, il va faire une recherche exhaustive sur toutes les combinaisons possibles
 
 Il y a quelques raffinements pour bien prendre en compte les sets.
-A noter qe pouor qu'il fonctionne correctement l'heuristique a besoin que la fonction à optimiser ne fonctionne pas par palier et soit globalement croissante en fonction des statistiques des glyphes. Ce dernier point n'est pas défini très rigoureusement mais globalement si 1 combinaison de glyphe semble meilleure qu'une autre, il faut que la fonction renvoie une plus grande valeur même si les 2 combinaisons sont nulles.
+A noter que pour qu'il fonctionne correctement l'heuristique a besoin que la fonction à optimiser ne fonctionne pas par palier et soit globalement croissante en fonction des statistiques des glyphes. Ce dernier point n'est pas défini très rigoureusement mais globalement si 1 combinaison de glyphes semble meilleure qu'une autre, il faut que la fonction renvoie une plus grande valeur même si les 2 combinaisons sont nulles.
 
 
