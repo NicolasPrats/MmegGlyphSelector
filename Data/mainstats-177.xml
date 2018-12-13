@@ -1,0 +1,13 @@
+<Definitions>
+    <Definition sku="rune_main_stat_progression_0000" statName="hp" value="1.166" />
+    <Definition sku="rune_main_stat_progression_0001" statName="hp%" value="1.25" />
+    <Definition sku="rune_main_stat_progression_0002" statName="speed" value="-1" />
+    <Definition sku="rune_main_stat_progression_0003" statName="defense%" value="1.175" />
+    <Definition sku="rune_main_stat_progression_0004" statName="attack" value="1.12" />
+    <Definition sku="rune_main_stat_progression_0005" statName="attack%" value="1.175" />
+    <Definition sku="rune_main_stat_progression_0006" statName="criticalChance%" value="-1" />
+    <Definition sku="rune_main_stat_progression_0007" statName="criticalDamage%" value="-1" />
+    <Definition sku="rune_main_stat_progression_0008" statName="defense" value="1.14" />
+    <Definition sku="rune_main_stat_progression_0009" statName="accuracy" value="-1" />
+    <Definition sku="rune_main_stat_progression_0010" statName="resistance" value="-1" />
+</Definitions>   
